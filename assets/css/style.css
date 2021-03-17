@@ -1663,7 +1663,7 @@ section {
   margin-bottom: 0;
 }
 
-.projects .icon-box .more-btn {
+.projects .more-btn {
   display: inline-block;
   background: rgba(255, 255, 255, 0.1);
   padding: 6px 30px 8px 30px;
@@ -1672,22 +1672,15 @@ section {
   transition: all ease-in-out 0.4s;
 }
 
-.projects .icon-box .more-btn i {
+.projects .more-btn i {
   font-size: 14px;
 }
-.projects .icon-box .more-btn:hover {
+.projects  .more-btn:hover {
   color: #009970;
   background: #fff;
 }
 
-.projects .icon-box:hover {
-  border-color: #000000;
-  /* box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1); */
-  box-shadow: 0px 0 10px 0 #00000099;
-  
-}
 
-.projects .icon-box:hover h4 a {
-  color: #e4e3e6;
-}
+
+
 
